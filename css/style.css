@@ -100,7 +100,6 @@ header {
 
 .latests {
   width: 300px;
-  margin: 0 15px;
   float: right;
 }
 
@@ -112,18 +111,15 @@ header {
 .latest .thumbnail {
   width: 75px;
   height: 75px;
-  float: left;
-  text-align: center;
 }
 
 .latest .thumbnail img {
   width: 74px;
-  margin: auto;
 }
 
 .latest .contents {
+  width: 225px;
   height: 75px;
-  float: left;
 }
 
 .latest .date {
